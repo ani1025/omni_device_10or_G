@@ -58,7 +58,7 @@
         # -- end R11 settings --
 
 	export OF_QUICK_BACKUP_LIST="/boot;/recovery;/system_root;/data;/vendor;/persist_image;/aboot;/modem;/sec;/efs1;/splash"
-	export OF_MAINTAINER="MOCHI"
+	export OF_MAINTAINER="ChashmishaAni"
 	export OF_TARGET_DEVICES="mido,oxygen,holland2,G,vince,potter,ysl,sakura,sanders,daisy"
 	export TARGET_DEVICE_ALT="mido,oxygen,holland2,G,vince,potter,ysl,sakura,sanders,daisy"
 
