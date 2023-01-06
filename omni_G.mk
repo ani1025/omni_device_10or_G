@@ -17,7 +17,7 @@
 # Release name
 PRODUCT_RELEASE_NAME := G
 
-$(call inherit-product, build/target/product/embedded.mk)
+#$(call inherit-product, build/target/product/embedded.mk)
 
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
